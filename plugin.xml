@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+        id="cordova-plugin-DStatusBarPatch" version="1.0.0">
+    <name>DStatusBarPatch</name>
+    <description>Status Bar Patch</description>
+    <license>MIT License</license>
+    <keywords>cordova,ios,status,bar</keywords>
+    <platform name="ios">
+        <source-file src="src/DStatusBarPatch.m" />
+    </platform>
+</plugin>
